@@ -1,0 +1,61 @@
+.sectionHero {
+  background: url(../../assets/images/hero-bg.png);
+  background-repeat: no-repeat;
+  background-size: 890px 734px;
+  background-position: right center;
+  max-width: 1680px;
+  margin: 0 auto;
+}
+
+.heroSection {
+  padding-top: 227px;
+  height: 734px;
+  margin-bottom: 90px;
+}
+
+h1 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 73.984px; /* 108.8% */
+  width: 518px;
+}
+
+.heroP {
+  padding: 22px 0 40px;
+  color: #6e7191;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px; /* 142.886% */
+  width: 591px;
+}
+
+.callPart {
+  display: flex;
+  align-items: center;
+}
+
+.textSide h3 p {
+  margin: 0;
+  padding: 0;
+}
+
+.textSide p {
+  margin-top: -10px !important;
+}
+
+.btnncall {
+  display: flex;
+  width: 623px;
+  height: 72px;
+  gap: 28px;
+}
+
+.callIcon {
+  width: 72px;
+  height: 72px;
+}

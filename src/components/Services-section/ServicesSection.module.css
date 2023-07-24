@@ -1,0 +1,22 @@
+.text h3 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.984px; /* 120.8% */
+  max-width: 475px;
+}
+
+.text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 78px;
+  padding-top: 20px;
+}
+
+.serSec{
+    margin-bottom: 200px;
+    margin-top: 100px;
+}

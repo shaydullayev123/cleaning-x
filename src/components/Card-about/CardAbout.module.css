@@ -1,0 +1,41 @@
+.cardsAbout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 57px;
+}
+
+.cardAbout {
+  width: 374px;
+  height: 392px;
+  flex-shrink: 0;
+}
+
+img {
+  display: flex;
+  margin: 0 auto;
+}
+
+h4 {
+  color: #211f54;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36.008px; /* 128.6% */
+  max-width: 237px;
+  margin: 0 auto;
+  margin: 39px auto 16px;
+}
+
+.cardAboutp {
+  color: #6e7191;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px; /* 142.886% */
+  width: 416px;
+}

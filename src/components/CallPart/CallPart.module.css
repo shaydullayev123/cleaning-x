@@ -1,0 +1,33 @@
+.callPart {
+  display: flex;
+  align-items: center;
+}
+
+.btnncall {
+  display: flex;
+  width: 623px;
+  height: 72px;
+  gap: 28px;
+  align-items: center;
+}
+
+.callIcon {
+  width: 72px;
+  height: 72px;
+}
+
+.textSide h3 p {
+  margin: 0;
+  padding: 0;
+}
+
+.textSide p {
+  /* margin-top: -10px !important; */
+}
+
+.callIcon {
+  width: 72px;
+  align-items: center;
+  height: 72px;
+  margin-top: 30px;
+}

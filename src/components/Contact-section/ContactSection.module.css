@@ -1,0 +1,67 @@
+.contact {
+  background: #f7f9fc;
+}
+
+.contactSec {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  width: 1220px;
+  height: 1151px;
+  flex-shrink: 0;
+  padding-top: 131px;
+  padding: 131px 10px 0;
+  gap: 60px;
+}
+
+.contactLeft {
+  width: 487px;
+  height: 846px;
+  flex-shrink: 0;
+}
+
+.callPart {
+  display: flex;
+  align-items: center;
+}
+
+.callIcon {
+  width: 72px;
+  height: 72px;
+}
+
+.textSide h3 p {
+  margin: 0;
+  padding: 0;
+}
+
+.callIcon {
+  width: 72px;
+  align-items: center;
+  height: 72px;
+  margin-top: 30px;
+}
+
+h2 {
+  margin-top: 34px;
+  margin-bottom: 32px;
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.984px; /* 120.8% */
+}
+
+hr {
+  margin-bottom: 55px;
+}
+
+h3 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36.008px; /* 128.6% */
+}

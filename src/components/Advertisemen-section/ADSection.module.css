@@ -1,0 +1,44 @@
+.ad {
+  display: flex;
+  border-radius: 24px;
+  background: #211f54;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  gap: 72px;
+  margin-bottom: 120px;
+}
+
+.adP {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px; /* 112.5% */
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  width: 474px;
+}
+
+.adP2 {
+  width: 474px;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px; /* 142.886% */
+  margin-bottom: 12px;
+}
+
+.adSecH4 {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.984px; /* 120.8% */
+  width: 491px;
+  margin: 18px 0;
+}

@@ -1,0 +1,16 @@
+.btn {
+  width: 126px;
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px; /* 112.5% */
+  border-radius: 14px;
+  background: #0075ff;
+  width: 174px;
+  height: 54px;
+  flex-shrink: 0;
+  border: none;
+}

@@ -1,0 +1,55 @@
+.cardsServices {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cardService {
+  border-radius: 16px;
+  border: 1px solid #eff0f6;
+  background: #fff;
+  box-shadow: 0px 2px 6px 0px rgba(20, 20, 43, 0.04);
+  width: 388px;
+  height: 494px;
+  flex-shrink: 0;
+}
+
+img {
+  margin-bottom: 24px;
+}
+
+.house {
+  padding-top: 83px;
+}
+
+.office {
+  padding-top: 49px;
+}
+
+.industrial {
+  padding-top: 73px;
+}
+
+.cardSerH4 {
+  color: #211f54;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34.008px; /* 141.7% */
+  max-width: 171px;
+  white-space: nowrap;
+}
+
+.cardSerP {
+  color: #6e7191;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px; /* 142.886% */
+  max-width: 312px;
+  margin: 0 auto;
+}
